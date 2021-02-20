@@ -8,9 +8,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/arunramachandran1993/
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: Nothing special.....
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=default)
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunRamachandran25&show_icons=true&theme=default)
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.ArunRamachandran25)
+
 
