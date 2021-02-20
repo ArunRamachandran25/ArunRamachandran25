@@ -10,10 +10,10 @@
 - ⚡ Fun fact: Nothing special.....
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunRamachandran25&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunRamachandran25&theme=default)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunRamachandran25&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunRamachandran25&show_icons=true&theme=default)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ArunRamachandran25.ArunRamachandran25)
