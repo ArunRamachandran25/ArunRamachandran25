@@ -8,3 +8,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/arunramachandran1993/
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: Nothing special.....
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunRamachandran25&show_icons=true&theme=tokyonight)
+
