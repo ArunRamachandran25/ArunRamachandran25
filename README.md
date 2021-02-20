@@ -9,6 +9,9 @@
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: Nothing special.....
 
+### Programming Languages:
+C++, C, Java, Python, SQL, R, HTML, CSS
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunRamachandran25&theme=default)
 
