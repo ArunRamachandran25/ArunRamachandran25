@@ -19,7 +19,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=ArunRamachandran25.ArunRamachandran25)
 
 
-[![Github](https://img.shields.io/github/followers/ArunRamachandran25?label=Follow&style=social)](https://github.com/ArunRamachandran25)
+
 
 
 
